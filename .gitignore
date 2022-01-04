@@ -133,3 +133,6 @@ dmypy.json
 
 # Pythonのコンパイルファイル
 .pyc
+
+# venv
+venv_private_diary/
