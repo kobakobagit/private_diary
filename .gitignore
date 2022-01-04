@@ -135,4 +135,4 @@ dmypy.json
 .pyc
 
 # venv
-venv_private_diary/
+/venv_private_diary/
